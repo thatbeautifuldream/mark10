@@ -3,7 +3,7 @@ const cashGiven = document.querySelector("#cash-given");
 const checkButton = document.querySelector("#check-button");
 const message = document.querySelector("#error-message");
 const availableNotes = [2000, 500, 200, 100, 50, 20, 10, 5, 2, 1];
-var noOfNotes = [];
+let noOfNotes = [];
 noOfNotes = document.querySelectorAll("#no-of-notes");
 
 checkButton.addEventListener("click", function validateBillAndCashAmount() {
