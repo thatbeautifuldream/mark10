@@ -12,7 +12,6 @@ This is a Cash Register Manager app. It helps the user by telling how can he/she
 - Click on the button "Check".
 - It will show the minimum number of notes to be returned in the table populated below.
 
-## Working Screenshot
+## Working GIF
 
-![scr 2022-09-12 at 10 52 55 AM](https://user-images.githubusercontent.com/28717686/189579408-e8079ebe-6a61-4e62-ae0a-ad927ba77993.png)
-
+![scr 2022-09-12 at 10 59 03 AM](https://user-images.githubusercontent.com/28717686/189580234-9f8cf51e-d840-4b2f-86bf-5afd5e00738a.gif)
